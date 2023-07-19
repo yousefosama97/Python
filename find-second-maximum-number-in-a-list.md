@@ -1,4 +1,4 @@
-# Nested_list HackerRank Question
+# find-second-maximum-number-in-a-list HackerRank Question
 ```
 if __name__ == '__main__':
     n = int(input())

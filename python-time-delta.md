@@ -1,5 +1,5 @@
 # python-time-delta HackerRank Question
-
+```
 import math
 import os
 import random
@@ -28,3 +28,4 @@ if __name__ == '__main__':
         fptr.write(delta + '\n')
 
     fptr.close()
+```

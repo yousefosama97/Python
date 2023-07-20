@@ -1,6 +1,7 @@
 # looping a list to append to dataframe
 Given a list lname containing elements representing people's names in groups of four. the function to convert this list into a DataFrame.
 
+```
 # Import the Pandas library
 import pandas as pd
 
@@ -43,3 +44,13 @@ try:
     print(result_df)
 except ValueError as e:
     print(e)
+```
+# Output
+```
+   A  B  C  D
+0  A  B  C  D
+1  A  B  C  D
+2  A  B  C  D
+3  A  B  C  D
+4  A  B  C  D
+```
